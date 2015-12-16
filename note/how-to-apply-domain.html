@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<head>
+<meta  http-equiv="Content-Type" content="text/html;charset=utf-8" />
+<meta  name="viewport" content="width=device-width, initial-scale=1" />
+<title>如何申请域名</title>
+<meta  name="generator" content="Org-mode" />
+<meta  name="author" content="dirtysalt" />
+<link rel="shortcut icon" href="http://dirlt.com/css/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="../css/site.css" />
+</head>
+<body>
+<div id="content">
+<h1 class="title">如何申请域名</h1>
+<p>
+update@20131030: 不知道是什么时候写的这篇文章，不过从whois的记录来看应该是在2011.12. Godaddy页面布局发生了很多变化，里面一些步骤和现在会不大一致, 大家见谅将就看看。
+</p>
+
+<p>
+按照下面几步来申请:
+</p>
+<ul class="org-ul">
+<li>选择域名提供商和域名。域名提供商godaddy是同事xuchaoqian推荐的，不过最近godaddy因为支持SOPA很多注册域名少了很多并且部分站长集体转移域名。GoDaddy支持SOPA 一天痛失2.1万域名 GoDaddy支持SOPA遭抗议站长集体转移域。注册账户，然后回到godaddy主页就可以申请域名了。选择域名的同时会显示响应费用。选择合适的域名添加到购物车，接着就可以转入结算的流程了。(continue to registration.如果不打算注册其他域名的话，那么就no thanks了)</li>
+<li>填写域名相关信息。这个还是非常重要的，如果域名出现问题或者是有人想收购你的域名的话，那么可以通过whois服务查找到这个域名的相关信息，就可以直接联系了。付费的大家可以找找godaddy优惠码，可能便宜20%~30%.普通域名差不多就是12$然后加上其他费用差不多人民币80~90左右，便宜20~30%之后的话差不多就是60-70左右/year吧。国内用户允许使用支付宝致富还是比较方便的。搞定之后查看My Account -&gt; My Products里面。通常来说很快就会生效的。如果没有生效的话，那么可以发一封信到support@godaddy.com写明自己的Customer(客户号）和订单号(Order).如果生效之后的话那么就可以开始进行配置了。这个相关信息后续也可以在My Account -&gt; Settings里面做修改。</li>
+<li>配置域名。从My Account(Products) -&gt; Domains(Launch) -&gt; Domain Manager。domain需要有DNS服务商的帮助来解析，godaddy有自己的DNS，但是我选择了dnspod.cn, 至于为什么我只是觉得对于我来说操作更加方便。后面我补充一些如何配置DNS. dnspod.cn的nameservrs分别是F1G1NS1.DNSPOD.NET, F1G1NS2.DNSPOD.NET. 我们在Domain Settings里面设置好即可。配置成功之后，可以在自己的linux机器上使用whois查看这个域名的信息了。whois dirlt.com</li>
+</ul>
+
+<p class="verse">
+[dirlt@umeng-ubuntu-pc] &gt; whois dirlt.com<br  />
+<br  />
+Whois Server Version 2.0<br  />
+<br  />
+Domain names in the .com and .net domains can now be registered<br  />
+with many different competing registrars. Go to <a href="http://www.internic.net/">http://www.internic.net/</a><br  />
+for detailed information.<br  />
+<br  />
+&#xa0;&#xa0;&#xa0;Domain Name: DIRLT.COM<br  />
+&#xa0;&#xa0;&#xa0;Registrar: GODADDY.COM, LLC<br  />
+&#xa0;&#xa0;&#xa0;Whois Server: whois.godaddy.com<br  />
+&#xa0;&#xa0;&#xa0;Referral URL: <a href="http://registrar.godaddy.com/">http://registrar.godaddy.com/</a><br  />
+&#xa0;&#xa0;&#xa0;Name Server: NS1.LINODE.COM<br  />
+&#xa0;&#xa0;&#xa0;Name Server: NS2.LINODE.COM<br  />
+&#xa0;&#xa0;&#xa0;Name Server: NS3.LINODE.COM<br  />
+&#xa0;&#xa0;&#xa0;Name Server: NS4.LINODE.COM<br  />
+&#xa0;&#xa0;&#xa0;Status: clientDeleteProhibited<br  />
+&#xa0;&#xa0;&#xa0;Status: clientRenewProhibited<br  />
+&#xa0;&#xa0;&#xa0;Status: clientTransferProhibited<br  />
+&#xa0;&#xa0;&#xa0;Status: clientUpdateProhibited<br  />
+&#xa0;&#xa0;&#xa0;Updated Date: 20-feb-2012<br  />
+&#xa0;&#xa0;&#xa0;Creation Date: 19-dec-2011<br  />
+&#xa0;&#xa0;&#xa0;Expiration Date: 19-dec-2012<br  />
+<br  />
+&gt;&gt;&gt; Last update of whois database: Wed, 29 Aug 2012 07:58:16 UTC &lt;&lt;&lt;<br  />
+<br  />
+NOTICE: The expiration date displayed in this record is the date the<br  />
+registrar's sponsorship of the domain name registration in the registry is<br  />
+currently set to expire. This date does not necessarily reflect the expiration<br  />
+date of the domain name registrant's agreement with the sponsoring<br  />
+registrar.  Users may consult the sponsoring registrar's Whois database to<br  />
+view the registrar's reported date of expiration for this registration.<br  />
+<br  />
+TERMS OF USE: You are not authorized to access or query our Whois<br  />
+database through the use of electronic processes that are high-volume and<br  />
+automated except as reasonably necessary to register domain names or<br  />
+modify existing registrations; the Data in VeriSign Global Registry<br  />
+Services' ("VeriSign") Whois database is provided by VeriSign for<br  />
+information purposes only, and to assist persons in obtaining information<br  />
+about or related to a domain name registration record. VeriSign does not<br  />
+guarantee its accuracy. By submitting a Whois query, you agree to abide<br  />
+by the following terms of use: You agree that you may use this Data only<br  />
+for lawful purposes and that under no circumstances will you use this Data<br  />
+to: (1) allow, enable, or otherwise support the transmission of mass<br  />
+unsolicited, commercial advertising or solicitations via e-mail, telephone,<br  />
+or facsimile; or (2) enable high volume, automated, electronic processes<br  />
+that apply to VeriSign (or its computer systems). The compilation,<br  />
+repackaging, dissemination or other use of this Data is expressly<br  />
+prohibited without the prior written consent of VeriSign. You agree not to<br  />
+use electronic processes that are automated and high-volume to access or<br  />
+query the Whois database except as reasonably necessary to register<br  />
+domain names or modify existing registrations. VeriSign reserves the right<br  />
+to restrict your access to the Whois database in its sole discretion to ensure<br  />
+operational stability.  VeriSign may restrict or terminate your access to the<br  />
+Whois database for failure to abide by these terms of use. VeriSign<br  />
+reserves the right to modify these terms at any time.<br  />
+<br  />
+The Registry database contains ONLY .COM, .NET, .EDU domains and<br  />
+Registrars.<br  />
+The data contained in GoDaddy.com, LLC's WhoIs database,<br  />
+while believed by the company to be reliable, is provided "as is"<br  />
+with no guarantee or warranties regarding its accuracy.  This<br  />
+information is provided for the sole purpose of assisting you<br  />
+in obtaining information about domain name registration records.<br  />
+Any use of this data for any other purpose is expressly forbidden without the prior written<br  />
+permission of GoDaddy.com, LLC.  By submitting an inquiry,<br  />
+you agree to these terms of usage and limitations of warranty.  In particular,<br  />
+you agree not to use this data to allow, enable, or otherwise make possible,<br  />
+dissemination or collection of this data, in part or in its entirety, for any<br  />
+purpose, such as the transmission of unsolicited advertising and<br  />
+and solicitations of any kind, including spam.  You further agree<br  />
+not to use this data to enable high volume, automated or robotic electronic<br  />
+processes designed to collect or compile this data for any purpose,<br  />
+including mining this data for your own personal or commercial purposes.<br  />
+<br  />
+Please note: the registrant of the domain name is specified<br  />
+in the "registrant" field.  In most cases, GoDaddy.com, LLC<br  />
+is not the registrant of domain names listed in this database.<br  />
+<br  />
+<br  />
+Registrant:<br  />
+&#xa0;&#xa0;&#xa0;dirty salt<br  />
+&#xa0;&#xa0;&#xa0;Shangdi 10th Street Haidian District<br  />
+&#xa0;&#xa0;&#xa0;Beijing, Beijing 100085<br  />
+&#xa0;&#xa0;&#xa0;China<br  />
+<br  />
+&#xa0;&#xa0;&#xa0;Registered through: GoDaddy.com, LLC (<a href="http://www.godaddy.com/">http://www.godaddy.com/</a>)<br  />
+&#xa0;&#xa0;&#xa0;Domain Name: DIRLT.COM<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;Created on: 19-Dec-11<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;Expires on: 19-Dec-12<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;Last Updated on: 20-Feb-12<br  />
+<br  />
+&#xa0;&#xa0;&#xa0;Administrative Contact:<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;salt, dirty  dirtysalt1987@gmail.com<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;Shangdi 10th Street Haidian District<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;Beijing, Beijing 100085<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;China<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;8615210717839<br  />
+<br  />
+&#xa0;&#xa0;&#xa0;Technical Contact:<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;salt, dirty  dirtysalt1987@gmail.com<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;Shangdi 10th Street Haidian District<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;Beijing, Beijing 100085<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;China<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;8615210717839<br  />
+<br  />
+&#xa0;&#xa0;&#xa0;Domain servers in listed order:<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;NS1.LINODE.COM<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;NS2.LINODE.COM<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;NS3.LINODE.COM<br  />
+&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;NS4.LINODE.COM<br  />
+</p>
+
+<hr  />
+<p>
+update@20131030:
+</p>
+
+<p>
+域名申请下来之后还需要配置DNS. 我使用了dnspod这个免费域名解析服务. 以我现在配置来说
+</p>
+<ul class="org-ul">
+<li>nameserver. 这个一般不需要修改
+<ul class="org-ul">
+<li>@ NS f1g1ns1.dnspod.net.</li>
+<li>@ NS f1g1ns2.dnspod.net.</li>
+</ul></li>
+<li>@ CNAME dirtysalt.github.io # 主页是静态页面, 托管在了 <a href="https://help.github.com/categories/github-pages-basics/">Github Pages</a> 上.</li>
+<li>vps A 66.175.222.39 # vps.dirlt.com解析为VPS地址</li>
+</ul>
+
+<p>
+update@201509:
+</p>
+
+<p>
+当然如果你选择了dnspod话, 也需要在godaddy.com修改nameserver, 指向dnspod的两个nameserver. 教程看 <a href="https://support.dnspod.cn/Kb/showarticle/?qtype=%E5%8A%9F%E8%83%BD%E4%BB%8B%E7%BB%8D%E5%8F%8A%E4%BD%BF%E7%94%A8%E6%95%99%E7%A8%8B&amp;tsid=42">这里</a>
+</p>
+</div>
+<!-- BA BEGIN --><!-- dirtysalt.info --><script>var _hmt = _hmt || [];(function() {  var hm = document.createElement("script");  hm.src = "//hm.baidu.com/hm.js?d7f7a153f554b5a04ff02c4bfb75acf9";  var s = document.getElementsByTagName("script")[0];  s.parentNode.insertBefore(hm, s);})();</script><!-- BA END --><!-- DISQUS BEGIN --><div id="disqus_thread"></div><script type="text/javascript">/* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * *//* required: replace example with your forum shortname  */var disqus_shortname = 'dirlt';var disqus_identifier = 'note/how-to-apply-domain.html';var disqus_title = 'note/how-to-apply-domain.html';var disqus_url = 'http://dirtysalt.info/note/how-to-apply-domain.html';/* * * DON'T EDIT BELOW THIS LINE * * */(function() {var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);})();</script><noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript><a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a><!-- DISQUS END --></body>
+</html>
