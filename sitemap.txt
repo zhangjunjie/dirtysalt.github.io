@@ -428,6 +428,7 @@ http://dirtysalt.info/note/retrospect-2012.html
 http://dirtysalt.info/note/making-money-along-the-way.html
 http://dirtysalt.info/note/looking-for-house-with-xcq.html
 http://dirtysalt.info/note/helsinki-travel2.html
+http://dirtysalt.info/note/ms-presentation.html
 http://dirtysalt.info/note/code-for-run.html
 http://dirtysalt.info/note/lincoln.html
 http://dirtysalt.info/note/take-wedding-photo.html
@@ -460,6 +461,7 @@ http://dirtysalt.info/note/pragmatic-thinking-and-learning.html
 http://dirtysalt.info/note/before-you-code-write.html
 http://dirtysalt.info/note/ostep-virt-cpu.html
 http://dirtysalt.info/note/sears-the-baby-book.html
+http://dirtysalt.info/note/how-to-launch-a-mac-app-and-become-1-top-paid-app-globally.html
 http://dirtysalt.info/note/platform-strategy.html
 http://dirtysalt.info/note/pregnancy.html
 http://dirtysalt.info/note/getting-real.html
@@ -480,6 +482,7 @@ http://dirtysalt.info/note/purchase-compaq-notebook.html
 http://dirtysalt.info/note/kaggle-2-facial-keypoints-detection.html
 http://dirtysalt.info/note/2pc-vs-paxos.html
 http://dirtysalt.info/note/remote.html
+http://dirtysalt.info/note/what-would-it-take-to-prove-me-wrong.html
 http://dirtysalt.info/note/zj-travel.html
 http://dirtysalt.info/note/retrospect-2009.html
 http://dirtysalt.info/note/do-we-need-exercise.html
