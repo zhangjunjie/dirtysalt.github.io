@@ -317,6 +317,7 @@ http://dirtysalt.info/note/a-great-developer-can-come-from-anywhere.html
 http://dirtysalt.info/note/a-impl-of-my-dict-book.html
 http://dirtysalt.info/note/a-love-for-legacy.html
 http://dirtysalt.info/note/a-note-of-nobel-winner.html
+http://dirtysalt.info/note/a-possible-impl-of-abtest-sys.html
 http://dirtysalt.info/note/about-dna-sequencing.html
 http://dirtysalt.info/note/animal-farm.html
 http://dirtysalt.info/note/anti-destruction-in-china.html
@@ -324,13 +325,16 @@ http://dirtysalt.info/note/antifragile.html
 http://dirtysalt.info/note/apply-visa-for-finland.html
 http://dirtysalt.info/note/apply-visa-for-usa.html
 http://dirtysalt.info/note/availability-vs-durability.html
+http://dirtysalt.info/note/aws-ec2-instances.html
 http://dirtysalt.info/note/baby-sleep-training.html
 http://dirtysalt.info/note/baidu-bit-shanghai-route.html
 http://dirtysalt.info/note/baked-in-creating-products-and-business-that-market-themselves.html
 http://dirtysalt.info/note/be-careful-when-you-drive.html
 http://dirtysalt.info/note/before-you-code-write.html
 http://dirtysalt.info/note/beginning-of-a-hard-journey.html
+http://dirtysalt.info/note/big-data-is-supposed-to-be.html
 http://dirtysalt.info/note/big-data.html
+http://dirtysalt.info/note/build-nginx-from-source-on-ubuntu.html
 http://dirtysalt.info/note/calm-down-for-a-second.html
 http://dirtysalt.info/note/central-limit-theorem.html
 http://dirtysalt.info/note/chasing-the-shiny-and-new.html
@@ -348,6 +352,7 @@ http://dirtysalt.info/note/cross-ocean.html
 http://dirtysalt.info/note/dark-time.html
 http://dirtysalt.info/note/dear-andreas.html
 http://dirtysalt.info/note/delivering-happiness.html
+http://dirtysalt.info/note/discussion-on-rs.html
 http://dirtysalt.info/note/distributed-operating-systems.html
 http://dirtysalt.info/note/do-house-work-as-leisure.html
 http://dirtysalt.info/note/do-we-need-exercise.html
@@ -358,12 +363,14 @@ http://dirtysalt.info/note/dreaming-in-code.html
 http://dirtysalt.info/note/drive-learning.html
 http://dirtysalt.info/note/employee-equity.html
 http://dirtysalt.info/note/equipped-with-ssd.html
+http://dirtysalt.info/note/experience-of-running-coffee-shop-for-40-years.html
 http://dirtysalt.info/note/from-zero-to-one.html
 http://dirtysalt.info/note/get-marriage-identity.html
 http://dirtysalt.info/note/getting-real.html
 http://dirtysalt.info/note/github-maintenance.html
 http://dirtysalt.info/note/god-father.html
 http://dirtysalt.info/note/goodbye-dyy.html
+http://dirtysalt.info/note/got6-is-coming.html
 http://dirtysalt.info/note/graduate-final-report.html
 http://dirtysalt.info/note/growth-hacker.html
 http://dirtysalt.info/note/guilin-travel.html
@@ -393,6 +400,7 @@ http://dirtysalt.info/note/introduction-to-computing-systems.html
 http://dirtysalt.info/note/ios-app-dev-tips-0.html
 http://dirtysalt.info/note/ios-device-and-screenshot-size.html
 http://dirtysalt.info/note/jeju-travel.html
+http://dirtysalt.info/note/jianshu-captcha.html
 http://dirtysalt.info/note/jonathon-ive.html
 http://dirtysalt.info/note/kaggle-0-bike-sharing-demand.html
 http://dirtysalt.info/note/kaggle-1-digit-recongnizer.html
@@ -405,6 +413,7 @@ http://dirtysalt.info/note/life-span-of-ssd.html
 http://dirtysalt.info/note/lincoln.html
 http://dirtysalt.info/note/look-for-house-with-xcq.html
 http://dirtysalt.info/note/looking-for-house-with-xcq.html
+http://dirtysalt.info/note/mac-root-certification.html
 http://dirtysalt.info/note/making-money-along-the-way.html
 http://dirtysalt.info/note/meeting-dyq.html
 http://dirtysalt.info/note/misc.html
@@ -419,6 +428,7 @@ http://dirtysalt.info/note/my-iphone5s.html
 http://dirtysalt.info/note/my-virgin-english-conversation.html
 http://dirtysalt.info/note/my-without-wife-wedding.html
 http://dirtysalt.info/note/new-era-carmack.html
+http://dirtysalt.info/note/nginx-site-redirect.html
 http://dirtysalt.info/note/nine-algos-that-changed-the-future.html
 http://dirtysalt.info/note/not-easy-as-you-think.html
 http://dirtysalt.info/note/on-computational-investing.html
@@ -434,6 +444,7 @@ http://dirtysalt.info/note/ostep-virt-vm0.html
 http://dirtysalt.info/note/ostep-virt-vm1.html
 http://dirtysalt.info/note/people-all-know.html
 http://dirtysalt.info/note/peter-thiel-on-competition.html
+http://dirtysalt.info/note/pieces-of-advice-from-yq.html
 http://dirtysalt.info/note/platform-strategy.html
 http://dirtysalt.info/note/portrayal.html
 http://dirtysalt.info/note/pragmatic-thinking-and-learning.html
@@ -445,6 +456,8 @@ http://dirtysalt.info/note/purchase-car.html
 http://dirtysalt.info/note/purchase-compaq-notebook.html
 http://dirtysalt.info/note/purchase-diamond.html
 http://dirtysalt.info/note/purchase-mba.html
+http://dirtysalt.info/note/python-gzip-input-stream-impl.html
+http://dirtysalt.info/note/python-universal-feed-parser.html
 http://dirtysalt.info/note/real-life-of-startup-with-baby.html
 http://dirtysalt.info/note/refactoring-improving-the-design-of-existing-code.html
 http://dirtysalt.info/note/reminiscences-of-stock-broker.html
@@ -464,6 +477,7 @@ http://dirtysalt.info/note/running-tutorial.html
 http://dirtysalt.info/note/scent-of-a-woman.html
 http://dirtysalt.info/note/sears-the-baby-book.html
 http://dirtysalt.info/note/seediq-bale.html
+http://dirtysalt.info/note/several-waters.html
 http://dirtysalt.info/note/sfo-travel.html
 http://dirtysalt.info/note/some-advice-from-jeff-bezos.html
 http://dirtysalt.info/note/spark-master-ui.html
