@@ -326,6 +326,7 @@ http://dirtysalt.info/note/apply-visa-for-finland.html
 http://dirtysalt.info/note/apply-visa-for-usa.html
 http://dirtysalt.info/note/atlassian-user-onboarding-magic.html
 http://dirtysalt.info/note/authority-and-merit.html
+http://dirtysalt.info/note/automate-to-save-mental-energy-not-time.html
 http://dirtysalt.info/note/availability-vs-durability.html
 http://dirtysalt.info/note/aws-ec2-instances.html
 http://dirtysalt.info/note/baby-sleep-training.html
@@ -360,6 +361,7 @@ http://dirtysalt.info/note/distributed-operating-systems.html
 http://dirtysalt.info/note/do-house-work-as-leisure.html
 http://dirtysalt.info/note/do-we-need-exercise.html
 http://dirtysalt.info/note/dont-base-your-business-on-a-paid-app.html
+http://dirtysalt.info/note/dont-call-yourself-a-programmer.html
 http://dirtysalt.info/note/dont-go-gentle-into-that-good-night.html
 http://dirtysalt.info/note/dont-switch-to-yinxiang-note.html
 http://dirtysalt.info/note/dreaming-in-code.html
@@ -367,6 +369,7 @@ http://dirtysalt.info/note/drive-learning.html
 http://dirtysalt.info/note/employee-equity.html
 http://dirtysalt.info/note/equipped-with-ssd.html
 http://dirtysalt.info/note/experience-of-running-coffee-shop-for-40-years.html
+http://dirtysalt.info/note/finding-great-developers.html
 http://dirtysalt.info/note/from-zero-to-one.html
 http://dirtysalt.info/note/get-marriage-identity.html
 http://dirtysalt.info/note/getting-real.html
@@ -455,6 +458,7 @@ http://dirtysalt.info/note/pragmatic-thinking-and-learning.html
 http://dirtysalt.info/note/pregnancy.html
 http://dirtysalt.info/note/principle-of-alloc-time-for-work.html
 http://dirtysalt.info/note/professional-amateur.html
+http://dirtysalt.info/note/programmers-are-distraction-for-your-startup.html
 http://dirtysalt.info/note/pulp-fiction.html
 http://dirtysalt.info/note/purchase-car.html
 http://dirtysalt.info/note/purchase-compaq-notebook.html
@@ -488,11 +492,13 @@ http://dirtysalt.info/note/spark-master-ui.html
 http://dirtysalt.info/note/stairway-to-heaven.html
 http://dirtysalt.info/note/star-wars.html
 http://dirtysalt.info/note/start-from-simple.html
+http://dirtysalt.info/note/starters-and-maintainers.html
 http://dirtysalt.info/note/staying-healthy-while-working-remotely.html
 http://dirtysalt.info/note/steve-jobs.html
 http://dirtysalt.info/note/stock-price-data-sanity.html
 http://dirtysalt.info/note/structured-computer-organization.html
 http://dirtysalt.info/note/struggle-with-ubuntu.html
+http://dirtysalt.info/note/surviving-meetings-while-remote.html
 http://dirtysalt.info/note/switch-back-to-windows.html
 http://dirtysalt.info/note/take-wedding-photo.html
 http://dirtysalt.info/note/talk-with-luoyan.html
@@ -535,6 +541,7 @@ http://dirtysalt.info/note/visit-tj-data-center.html
 http://dirtysalt.info/note/what-can-i-do-when-old.html
 http://dirtysalt.info/note/what-happens-to-older-developers.html
 http://dirtysalt.info/note/what-would-it-take-to-prove-me-wrong.html
+http://dirtysalt.info/note/why-cant-programmers-program.html
 http://dirtysalt.info/note/why-cd-just-keeps-on-giving.html
 http://dirtysalt.info/note/why-cn-people-anxious.html
 http://dirtysalt.info/note/why-i-stopped-paying-attention-to-industry-news.html
