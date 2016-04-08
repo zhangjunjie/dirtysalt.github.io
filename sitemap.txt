@@ -172,6 +172,7 @@ http://dirtysalt.info/mapreduce-patterns-algos-and-use-cases.html
 http://dirtysalt.info/mapreduce-versus-parellel-dbms.html
 http://dirtysalt.info/mapreduce.html
 http://dirtysalt.info/maven.html
+http://dirtysalt.info/mean-people-fail.html
 http://dirtysalt.info/megastore.html
 http://dirtysalt.info/memcached.html
 http://dirtysalt.info/memory-barrier.html
