@@ -324,6 +324,8 @@ http://dirtysalt.info/note/anti-destruction-in-china.html
 http://dirtysalt.info/note/antifragile.html
 http://dirtysalt.info/note/apply-visa-for-finland.html
 http://dirtysalt.info/note/apply-visa-for-usa.html
+http://dirtysalt.info/note/atlassian-user-onboarding-magic.html
+http://dirtysalt.info/note/authority-and-merit.html
 http://dirtysalt.info/note/availability-vs-durability.html
 http://dirtysalt.info/note/aws-ec2-instances.html
 http://dirtysalt.info/note/baby-sleep-training.html
@@ -350,6 +352,7 @@ http://dirtysalt.info/note/convict-conditioning.html
 http://dirtysalt.info/note/coursera-maintenance.html
 http://dirtysalt.info/note/cross-ocean.html
 http://dirtysalt.info/note/dark-time.html
+http://dirtysalt.info/note/data-infra-at-airbnb.html
 http://dirtysalt.info/note/dear-andreas.html
 http://dirtysalt.info/note/delivering-happiness.html
 http://dirtysalt.info/note/discussion-on-rs.html
@@ -428,6 +431,7 @@ http://dirtysalt.info/note/my-iphone5s.html
 http://dirtysalt.info/note/my-virgin-english-conversation.html
 http://dirtysalt.info/note/my-without-wife-wedding.html
 http://dirtysalt.info/note/new-era-carmack.html
+http://dirtysalt.info/note/nginx-forwarding-proxy.html
 http://dirtysalt.info/note/nginx-site-redirect.html
 http://dirtysalt.info/note/nine-algos-that-changed-the-future.html
 http://dirtysalt.info/note/not-easy-as-you-think.html
